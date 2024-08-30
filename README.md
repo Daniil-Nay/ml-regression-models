@@ -26,7 +26,9 @@ Several models were trained and evaluated:
 | Stacking_2          | 0.8245                 | 0.8231             |
 
 
-Among the models evaluated, CatBoost and LGBM emerged as the top performers,  delivering the highest R² scores on both validation and test sets.   CatBoost slightly edged out LGBM, showcasing its superior performance in predicting real estate prices.   XGBRegressor also demonstrated strong results, closely following the top two models.
+Among the models evaluated, CatBoost and LGBM emerged as the top performers,  delivering the highest R² scores on both validation and test sets.    
+CatBoost slightly edged out LGBM, showcasing its superior performance in predicting real estate prices.  
+XGBRegressor also demonstrated strong results, closely following the top two models.
 
 To further enhance the predictive accuracy, additional hyperparameter tuning and feature engineering could be beneficial.  
 Experimenting with different feature transformations, interactions, or incorporating domain-specific   
