@@ -12,6 +12,7 @@ Several models were trained and evaluated:
 7. Lasso Regression
 8. Stacking Regressor model 1 (It includes such models as: 1, 2 3 and 6)
 9. Stacking Regressor model 2 (It includes such models as: 1 and 2)
+
 | Model               | r^2 score - Validation |  r^2 score - Test  |
 |---------------------|------------------------|--------------------|
 | Linear Regression   | 0.7010                 | 0.7029             |
